@@ -6,7 +6,8 @@ public class App {
 
         System.out.println("Nu startar programmet");
         //Exercise1.execute();
-        Loop2.execute();
+        //Loop2.execute();
+        Loop4.execute();
         System.out.println("Nu slutar programmet");
         // String email = System.console().readLine();
         // if(email.contains("@")){
